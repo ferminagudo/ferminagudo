@@ -7,23 +7,20 @@ Technical and administrative professional with 10+ years of on-site experience, 
 ---
 
 ### 🛠️ Core Technical Competencies
-
-- **AI & Data Operations:** AI Data Annotation, Data Validation & QA, Atomic Action Labeling, RLHF Dataset Evaluation, Grounding & Hallucination Auditing
-- **Technical & Digital Skills:** Technical Writing & Documentation, Market & Product Research, Digital Engagement & Content Moderation, MS Office Suite Specialist
-- **Digital Asset Management:** E-Book Publishing & Formatting (Amazon KDP)
+* **AI & Data Operations:** AI Data Annotation, Data Validation & QA, Atomic Action Labeling, RLHF, Dataset Evaluation, Grounding & Hallucination Tracking
+* **Technical & Digital Skills:** Technical Writing & Documentation, Market & Product Research, Digital Engagement & Content Moderation, MS Office Suite Specialist
+* **Digital Asset Management:** E-Book Publishing & Formatting (Amazon KDP)
 
 ---
 
 ### 💼 Key Experience & Platforms
-
-- **RWS Workzone:** Performed high-precision AI data annotation, data labeling, and quality validation for machine learning datasets.
-- **Atlas Capture LLC:** Reviewer III (Certified Atomic Action Labeller) — Audited large-scale generative AI and computer vision datasets for accuracy and protocol compliance.
-- **DSWD:** Project Development Officer II — Technical support, database validation, and regional operational reporting.
+* **RWS Moravia:** Evaluated and optimized AI-generated content; calibrated datasets for machine learning & AI safety
+* **Alien Option LLC:** Managed digital assets & documentation; provided quality assurance for e-commerce, content moderation, and product research
+* **DEKSI:** Assisted in development of online tools for collaborative, remote, and location-based learning
 
 ---
 
 ### 🌐 Professional Links
-
-- 💼 **LinkedIn:** [linkedin.com/in/fermin-agudo-b32aa442b](https://www.linkedin.com/in/fermin-agudo-b32aa442b/)
-- 📁 **Portfolio:** [sunny-gumption-fe856b.netlify.app](https://sunny-gumption-fe856b.netlify.app/)
-- 📧 **Email:** [inxfba@gmail.com](mailto:inxfba@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/ferminagudoiii](https://www.linkedin.com/in/ferminagudoiii)
+* 🌐 **Gravatar:** [gravatar.com/ferminagudoiii](https://gravatar.com/ferminagudoiii)
+* ✉️ **Email:** [ferminagudoiii@gmail.com](mailto:ferminagudoiii@gmail.com)
