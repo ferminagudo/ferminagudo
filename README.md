@@ -14,13 +14,15 @@ Technical and administrative professional with 10+ years of on-site experience, 
 ---
 
 ### 💼 Key Experience & Platforms
-* **RWS Moravia:** Evaluated and optimized AI-generated content; calibrated datasets for machine learning & AI safety
-* **Alien Option LLC:** Managed digital assets & documentation; provided quality assurance for e-commerce, content moderation, and product research
-* **DEKSI:** Assisted in development of online tools for collaborative, remote, and location-based learning
+* **RWS Workzone:** Data Service Specialist – Performed AI data annotation, validation, and dataset optimization for machine learning.
+* **Atlas Capture LLC:** Reviewer III / Certified Atomic Action Labeler – Validated AI training data for accuracy, consistency, and compliance with quality standards.
+* **Department of Social Welfare & Development (DSWD):** Project Development Officer II – Delivered technical support services and administrative operations.
+* **National Conciliation & Mediation Board (NCMB):** Administrative Assistant – Managed administrative support services and office documentation.
+* **Tektos Ecosystem, Ltd.:** Data Researcher – Conducted product and market data research.
 
 ---
 
 ### 🌐 Professional Links
-* 💼 **LinkedIn:** [linkedin.com/in/ferminagudoiii](https://www.linkedin.com/in/ferminagudoiii)
-* 🌐 **Gravatar:** [gravatar.com/ferminagudoiii](https://gravatar.com/ferminagudoiii)
+* 💼 **LinkedIn:** [linkedin.com/in/fermin-agudo-b32aa442b](https://www.linkedin.com/in/fermin-agudo-b32aa442b/)
+* 🌐 **Portfolio:** [sunny-gumption-fe856b.netlify.app](https://sunny-gumption-fe856b.netlify.app/)
 * ✉️ **Email:** [inxfba@gmail.com](mailto:inxfba@gmail.com)
