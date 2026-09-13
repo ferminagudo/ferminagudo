@@ -2,7 +2,7 @@
 
 ### AI Data Specialist | Data Quality Evaluator | Technical Operations
 
-Results-driven professional with **10+ years of experience** spanning AI data annotation, dataset validation, quality assurance (QA), digital moderation, and technical operations. Specialized in machine learning dataset optimization, atomic action labeling, and multi-turn AI model evaluation (SxS).
+Technical and administrative professional with 10+ years of on-site experience, now operating in remote roles. Specialized in AI data annotation, dataset validation, quality assurance, and digital moderation. Core focus includes machine learning dataset optimization, atomic action labeling, and multi-turn side-by-side (SxS) AI model evaluation.
 
 ---
 
