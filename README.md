@@ -23,4 +23,4 @@ Technical and administrative professional with 10+ years of on-site experience, 
 ### 🌐 Professional Links
 * 💼 **LinkedIn:** [linkedin.com/in/ferminagudoiii](https://www.linkedin.com/in/ferminagudoiii)
 * 🌐 **Gravatar:** [gravatar.com/ferminagudoiii](https://gravatar.com/ferminagudoiii)
-* ✉️ **Email:** [ferminagudoiii@gmail.com](mailto:ferminagudoiii@gmail.com)
+* ✉️ **Email:** [inxfba@gmail.com](mailto:inxfba@gmail.com)
