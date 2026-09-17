@@ -14,7 +14,7 @@ Technical and administrative professional with 10+ years of on-site experience, 
 ---
 
 ### 💼 Key Experience & Platforms
-* **RWS:** Data Service Specialist - • Performed structured evaluation and quality assessment of AI voice conversations based on established project guidelines. • Compared and ranked conversational outputs for accuracy, consistency, and overall quality.
+* **RWS:** Data Service Specialist – Performed structured evaluation, quality assessment, comparison, and ranking of AI voice conversations for accuracy, consistency, and overall quality based on project guidelines.
 * **Atlas Capture LLC:** Reviewer III / Certified Atomic Action Labeler – Validated AI training data for accuracy, consistency, and compliance with quality standards.
 * **Department of Social Welfare & Development (DSWD):** Project Development Officer II – Delivered technical support services and administrative operations.
 * **National Conciliation & Mediation Board (NCMB):** Administrative Assistant – Managed administrative support services and office documentation.
