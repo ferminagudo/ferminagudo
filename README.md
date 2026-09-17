@@ -26,3 +26,4 @@ Technical and administrative professional with 10+ years of on-site experience, 
 * 💼 **LinkedIn:** [linkedin.com/in/fermin-agudo-b32aa442b](https://www.linkedin.com/in/fermin-agudo-b32aa442b/)
 * 🌐 **Portfolio:** [sunny-gumption-fe856b.netlify.app](https://sunny-gumption-fe856b.netlify.app/)
 * ✉️ **Email:** [inxfba@gmail.com](mailto:inxfba@gmail.com)
+
